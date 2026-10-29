@@ -46,7 +46,7 @@
     "utilities": "workspace:^",
     "uuid": "9.0.0",
     "wallet": "workspace:^",
-    "zod": "3.22.4"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.11",
